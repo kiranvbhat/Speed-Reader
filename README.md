@@ -4,3 +4,8 @@ ReactJS app that can improve reading speed by reducing subvocalization. Created 
 <p align="center">
   <img src="https://imgur.com/GCP920g.gif?" alt="Speed Reading an Excerpt of The Kite Runner by Khaled Hosseini"/>
 </p>
+
+### Customize reading speed
+<p align="center">
+  <img src="https://imgur.com/4ElHflE.gif?" alt="Increase Reading Speed"/>
+</p>
