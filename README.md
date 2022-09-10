@@ -9,3 +9,8 @@ ReactJS app that can improve reading speed by reducing subvocalization. Created 
 <p align="center">
   <img src="https://imgur.com/4ElHflE.gif?" alt="Increase Reading Speed"/>
 </p>
+
+### Change font size
+<p align="center">
+  <img src="https://imgur.com/Nymbw7d.gif?" alt="Increase Font Size"/>
+</p>
