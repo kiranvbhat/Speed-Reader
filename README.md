@@ -15,6 +15,5 @@ ReactJS app that can improve reading speed by reducing subvocalization. Created 
   <img src="https://imgur.com/Nymbw7d.gif?" alt="Increase Font Size"/>
 </p>
 
-<hr>
-<h3>Contributers</h3>
-Tejas Narajanan (<a href="https://github.com/tnarayanan">tnarayanan</a>)
+## Contributors
+Tejas Narayanan ([tnarayanan](https://github.com/tnarayanan))
