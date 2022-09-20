@@ -16,4 +16,5 @@ ReactJS app that can improve reading speed by reducing subvocalization. Created 
 </p>
 
 ## Contributors
+Kiran Bhat ([kiranvbhat](https://github.com/kiranvbhat))
 Tejas Narayanan ([tnarayanan](https://github.com/tnarayanan))
